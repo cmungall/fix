@@ -1,0 +1,11 @@
+id: fix
+title: Physico-chemical methods and properties
+github_org: cmungall
+repo: fix
+edit_format: obo
+git_main_branch: main
+description: An ontology of physico-chemical methods and properties.
+release_use_reasoner: false
+release_artefacts:
+  - full
+  - base
