@@ -67,3 +67,11 @@ src/patterns/pattern_owl_seed.txt
 src/patterns/all_pattern_terms.txt
 
 # End of ODK-managed rules
+#
+# Rescue repositories commit root release artefacts.
+!/fix.owl
+!/fix.obo
+!/fix-base.owl
+!/fix-base.obo
+!/fix-full.owl
+!/fix-full.obo
